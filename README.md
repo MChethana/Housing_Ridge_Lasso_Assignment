@@ -74,20 +74,20 @@ Lasso Regression Model: choose lambda = 0.001 - some more coeff values are zero
 
 Lamda:0.001
 
-  Training Data:
-    r2score: 0.8051467736454287
-    RMSE :0.048459869554225314
+    Training Data:
+        r2score: 0.8051467736454287
+        RMSE :0.048459869554225314
 
-  Testing Data:
-    r2score: 0.7958201652667687
-    RMSE :0.05033869480512303
+    Testing Data:
+        r2score: 0.7958201652667687
+        RMSE :0.05033869480512303
     
- Top 5 predictor variables:
-    1stFlrSF      :0.253522
-    2ndFlrSF      :0.113366
-    OverallQual_10:0.097391
-    OverallQual_9 :0.094984
-    age           :-0.078841
+    Top 5 predictor variables:
+        1stFlrSF      :0.253522
+        2ndFlrSF      :0.113366
+        OverallQual_10:0.097391
+        OverallQual_9 :0.094984
+        age           :-0.078841
 
 ## Contact
 Created by [@MChethana] / Chethana Manyam- feel free to contact me!
