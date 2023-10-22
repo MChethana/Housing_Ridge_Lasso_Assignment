@@ -29,6 +29,8 @@ determine the optimal value of lambda for ridge and lasso regression.
 2.Target value is normalized using MinMaxScaling
 
 ## Technologies Used
+
+Models are implemented using the python language.
 ### Imported libracies 
 import numpy as np
 import pandas as pd
@@ -43,6 +45,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import mean_squared_error, r2_score
 
 import os
+
 
 ## Conclusions
 
