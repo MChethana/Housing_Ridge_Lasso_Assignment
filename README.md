@@ -53,6 +53,7 @@ import os
 Ridge Regression Model : choose lambda - 0.001
 
 Lamda:0.001
+
     Training Data:
         r2score: 0.8625557120840566
         RMSE:0.040699754348539785
@@ -72,6 +73,7 @@ Lamda:0.001
 Lasso Regression Model: choose lambda = 0.001 - some more coeff values are zero
 
 Lamda:0.001
+
   Training Data:
     r2score: 0.8051467736454287
     RMSE :0.048459869554225314
